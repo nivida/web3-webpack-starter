@@ -2,6 +2,8 @@
 
 This is a basic setup for a Web3.js and webpack based Dapp.
 
+Supported Web3.js versions: v1.0.0-beta.38
+
 ## Getting started
 
 First clone the repository:
